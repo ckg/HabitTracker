@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the target frequency drop-down Spinner -->
+    <string-array name="array_target_frequency_options">
+        <item>@string/target_frequency_once_a_week</item>
+        <item>@string/target_frequency_twice_a_week</item>
+        <item>@string/target_frequency_every_day</item>
+    </string-array>
+    <!-- These are the options displayed in the achieved frequency drop-down Spinner -->
+    <string-array name="array_target_frequency_achieved_options">
+        <item>@string/target_frequency_achieved_no</item>
+        <item>@string/target_frequency_achieved_yes</item>
+    </string-array>
+
+</resources>
